@@ -4,13 +4,13 @@ This four-page static website presents Samuel Olowolafe's final Philosophy of In
 
 ## Repository and GitHub Pages
 
-1. Create a separate public GitHub repository named `AIL-601-Portfolio`.
-2. Upload all HTML files, `styles.css`, `script.js`, this README, and the complete `assets` folder to the repository root.
+1. Open the existing public GitHub repository named `IT-Philosophy`.
+2. Upload every file in this package and the complete `assets` folder to the repository root. Allow GitHub to replace files with the same names.
 3. Open **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
 5. Select the `main` branch and `/ (root)` folder, then save.
 
-Expected address: `https://opsam9111.github.io/AIL-601-Portfolio/`
+Expected address: `https://opsam9111.github.io/IT-Philosophy/`
 
 ## Required contents
 
@@ -20,7 +20,12 @@ Expected address: `https://opsam9111.github.io/AIL-601-Portfolio/`
 - `practice.html`
 - `styles.css`
 - `script.js`
+- `translations.js`
+- `accessibility.js`
 - `assets/SamuelOlowolafe-Philosophy-of-Instructional-Technology.pdf`
+- `assets/SamuelOlowolafe-Philosophy-of-Instructional-Technology.docx`
+
+The accessibility toolbar provides English, French, and Spanish display options; standard, soft, and high-contrast modes; and browser-based read-aloud controls. Available speech voices depend on the visitor's browser and operating system.
 
 ## Rights
 
