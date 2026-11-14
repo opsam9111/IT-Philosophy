@@ -1,0 +1,14 @@
+.hero-statement {
+  display: grid;
+  gap: .18rem;
+  width: fit-content;
+  margin: .8rem 0 1.25rem;
+  padding-left: 1rem;
+  border-left: 5px solid var(--gold);
+  font-size: clamp(1.15rem, 1.8vw, 1.55rem);
+  line-height: 1.28;
+}
+.hero-statement span { display: block; }
+@media (max-width: 640px) {
+  .hero-statement { width: 100%; font-size: 1.12rem; }
+}
