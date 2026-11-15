@@ -9,6 +9,20 @@
   line-height: 1.28;
 }
 .hero-statement span { display: block; }
+
+.pathway-grid article > span {
+  position: static;
+  display: inline-grid;
+  place-items: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-bottom: 1rem;
+  border-radius: 50%;
+  background: var(--crimson);
+  color: #fff;
+  font-size: .85rem;
+  font-weight: 900;
+}
 @media (max-width: 640px) {
   .hero-statement { width: 100%; font-size: 1.12rem; }
 }
